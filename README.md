@@ -8,5 +8,5 @@ In the data,the features given are numeric and anonymized.
 0 indicate person doesn't make the transfer. 1 denotes person make the transfer.
 
 <p>
-    <img src="Images/Screenshot%20(44).png" width="220" height="240" />
+    <img src="Images/Screenshot%20(44).png" width="500" height="600" />
 </p
