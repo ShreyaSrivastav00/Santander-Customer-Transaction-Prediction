@@ -6,4 +6,4 @@ we are asked to predict if a customer will make a transaction or not regardless 
 Hence it is binary classification problem. 
 In the data,the features given are numeric and anonymized.
 0 indicate person doesn't make the transfer. 1 denotes person make the transfer.
-![result](https://raw.githubusercontent.com/ShreyaSriivastav00/Santander-customer-transaction-prediction/blob/master/Screenshot%20(44).png)
+![result](https://raw.githubusercontent.com/ShreyaSriivastav00/Santander-customer-transaction-prediction/blob/master/Images/Screenshot%20(44).png)
