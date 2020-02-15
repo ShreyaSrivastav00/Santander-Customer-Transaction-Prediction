@@ -7,6 +7,7 @@ Hence it is binary classification problem.
 In the data,the features given are numeric and anonymized.
 0 indicate person doesn't make the transfer. 1 denotes person make the transfer.
 
+<h2>Result</h2>
 <p>
-    <img src="Images/Screenshot%20(44).png" width="500" height="600" />
+    <img src="Images/Screenshot%20(44).png" width="600" height="200" />
 </p
